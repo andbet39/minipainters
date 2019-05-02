@@ -1,0 +1,20 @@
+{
+  "name": "minipainters",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^4.0.2",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.19",
+    "vue": "^2.6.10",
+    "vue-axios": "^2.1.4",
+    "vue-loader": "^15.7.0",
+    "vue-router": "^3.0.6",
+    "vue-star-rating": "^1.6.1",
+    "vue-template-compiler": "^2.6.10",
+    "vue-turbolinks": "^2.0.4"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.3.1"
+  }
+}
